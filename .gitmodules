@@ -1,0 +1,9 @@
+[submodule "libft"]
+	path = libft
+	url = git@github.com:Killian-G/libft-42.git
+[submodule "mysdl2"]
+	path = mysdl2
+	url = git@github.com:Killian-G/mysdl2.git
+[submodule "mysndal"]
+	path = mysndal
+	url = git@gitlab.com:thboura/mysndal.git

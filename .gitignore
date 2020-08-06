@@ -1,0 +1,17 @@
+.**
+**.o
+**.a
+**.log
+**.out
+**.dSYM
+**.ppm
+**.txt
+**test**.c
+debug
+test
+doom-nukem
+**.dmap
+**callgrind**
+**.mtl
+**.s
+CMake**
